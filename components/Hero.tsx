@@ -104,7 +104,7 @@ export default function Hero() {
             <HiOutlineMail className="text-xl" />
           </a>
           <a 
-            href="/ARYAN_RATHOD_CV(Python Full Staack 2).pdf" 
+            href="/Rathod_Aryan_CV.pdf" 
             download
             className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-green-500 transition-all duration-300 text-white shadow-lg hover:shadow-green-500/30"
             aria-label="Download Resume"

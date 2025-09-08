@@ -59,7 +59,7 @@ export default function Resume() {
                 </div>
               </div>
               <motion.a
-                href="/Aryan_Rathod_Resume.pdf"
+                href="/Rathod_Aryan_CV.pdf"
                 download
                 className="flex items-center gap-2 px-6 py-3 bg-teal-600 hover:bg-teal-700 text-white font-medium rounded-lg transition-all duration-300 whitespace-nowrap"
                 whileHover={{ scale: 1.05 }}
@@ -89,7 +89,7 @@ export default function Resume() {
               <div>
                 <h4 className="font-medium text-gray-900">Bachelor's in AI & Machine Learning</h4>
                 <p className="text-gray-600 text-sm">Pune University</p>
-                <p className="text-gray-500 text-xs">2020 - 2024</p>
+                <p className="text-gray-500 text-xs">2021 - 2025</p>
               </div>
               {/* Add more education items as needed */}
             </div>

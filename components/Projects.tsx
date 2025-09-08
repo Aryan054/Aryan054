@@ -15,8 +15,8 @@ const projects = [
       { name: 'ML/NLP', icon: <TbBrain className="w-5 h-5" /> },
     ],
     github: 'https://github.com/Aryan054/college-chatbot',
-    demo: '',
-    image: '/project-chatbot.jpg'
+    demo: 'http://127.0.0.1:8000/',
+    image: 'https://thfvnext.bing.com/th/id/OIP.PHzsL5fQvcV4bgfd6_4JOwHaFG?w=244&h=180&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3'
   },
   {
     title: 'BigMart Sales Analysis',
@@ -26,9 +26,9 @@ const projects = [
       { name: 'Power BI', icon: <FaChartBar className="w-5 h-5" /> },
       { name: 'Data Viz', icon: <TbBrandPython className="w-5 h-5" /> },
     ],
-    github: 'https://github.com/Aryan054/BigMart-Sales-Analysis',
-    demo: '',
-    image: '/project-sales.jpg'
+    github: 'https://drive.google.com/file/d/1X5zZtTalw2aZkx5l0uCh1x1_KO8Tok67/view?usp=sharing',
+    demo: 'https://drive.google.com/file/d/1X5zZtTalw2aZkx5l0uCh1x1_KO8Tok67/view?usp=sharing',
+    image: 'https://i.ytimg.com/vi/q4zm-kMitCg/maxresdefault.jpg'
   },
   {
     title: 'Doctor Appointment System',
@@ -38,9 +38,24 @@ const projects = [
       { name: 'SQL', icon: <TbBrandMysql className="w-5 h-5" /> },
       { name: 'Frontend', icon: <SiHtml5 className="w-5 h-5" /> },
     ],
-    github: 'https://github.com/Aryan054/doctor-appointment',
-    demo: '',
-    image: '/project-doctor.jpg'
+    github: 'https://github.com/Aryan054/Healthcare-Management',
+    demo: 'http://127.0.0.1:8000/',
+    image: 'https://tse4.mm.bing.net/th/id/OIP.TTO1U8duT1-lzwcsRNgDGwHaDl?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3'
+  },
+  {
+    title: 'Teacher Management',
+    description: 'Teacher Management System is a web-based application designed to manage teacher records efficiently. It allows adding, updating, viewing, and deleting teacher details, helping schools and colleges streamline staff information management.',
+    tech: [
+     { name: 'Python', icon: <SiPython className="w-5 h-5" /> },
+     { name: 'Django', icon: <SiDjango className="w-5 h-5" /> },
+     { name: 'HTML', icon: <SiHtml5 className="w-5 h-5" /> },
+     { name: 'CSS', icon: <SiCss3 className="w-5 h-5" /> },
+     { name: 'Django ORM', icon: <SiDjango className="w-5 h-5" /> },
+    
+    ],
+    github: 'https://github.com/Aryan054/fullstack-intern-project',
+    demo: 'http://localhost:3000/register',
+    image: 'https://varthana.com/school/wp-content/uploads/2023/02/B166.jpg'
   },
 ];
 
