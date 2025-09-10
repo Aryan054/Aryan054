@@ -7,39 +7,20 @@ import { HiOutlineMail } from 'react-icons/hi';
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-br from-gray-900 to-black text-white relative overflow-hidden">
-      {/* Decorative elements */}
-      <div className="absolute top-0 left-0 w-full h-full opacity-20">
-        <div className="absolute top-20 left-1/4 w-40 h-40 rounded-full bg-blue-500 filter blur-3xl opacity-30"></div>
-        <div className="absolute bottom-20 right-1/4 w-60 h-60 rounded-full bg-purple-500 filter blur-3xl opacity-20"></div>
-      </div>
-      <section className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-br from-gray-900 to-black text-white relative overflow-hidden pt-20"> {/* Added pt-20 */}
-  {/* ... rest of hero code ... */}
-</section>
-      
-      <div className="relative z-10 w-full flex flex-col items-center">
-        {/* Profile picture container - perfectly centered */}
+  <section className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-br from-gray-900 to-black text-white pt-24">
+      <div className="w-full flex flex-col items-center">
         <motion.div
           initial={{ scale: 0, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ type: 'spring', stiffness: 100, damping: 20 }}
           className="mb-8 flex justify-center"
         >
-          <div className="relative">
-            <motion.img
-              src="/My Pic.jpeg"
-              alt="Aryan Rathod"
-              className="w-40 h-40 sm:w-48 sm:h-48 rounded-full border-4 border-blue-400 object-cover shadow-xl mx-auto"
-              whileHover={{ scale: 1.05 }}
-            />
-            <motion.div 
-              className="absolute -bottom-2 -right-2 bg-blue-500 text-white rounded-full p-2 shadow-lg"
-              animate={{ rotate: 360 }}
-              transition={{ repeat: Infinity, duration: 8, ease: "linear" }}
-            >
-              <div className="w-4 h-4 rounded-full bg-white"></div>
-            </motion.div>
-          </div>
+          <motion.img
+            src="/My Pic.jpeg"
+            alt="Aryan Rathod"
+            className="w-40 h-40 sm:w-48 sm:h-48 rounded-full border-4 border-blue-400 object-cover shadow-xl mx-auto"
+            whileHover={{ scale: 1.05 }}
+          />
         </motion.div>
 
         <motion.div
@@ -51,12 +32,6 @@ export default function Hero() {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-2">
             Aryan <span className="text-blue-400">Rathod</span>
           </h1>
-          <motion.div 
-            className="w-20 h-1 bg-blue-400 mx-auto my-4"
-            initial={{ scaleX: 0 }}
-            animate={{ scaleX: 1 }}
-            transition={{ delay: 0.5, duration: 0.8 }}
-          />
           <h2 className="text-xl sm:text-2xl text-gray-300 font-medium">
             AI/ML Specialist | Full Stack Developer | Data Analyst
           </h2>
@@ -68,8 +43,7 @@ export default function Hero() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.6 }}
         >
-          Passionate about building intelligent solutions and transforming data into actionable insights. 
-          Currently focused on Python, Django, and machine learning applications.
+          Passionate about building intelligent solutions and transforming data into actionable insights. Currently focused on Python, Django, and machine learning applications.
         </motion.p>
 
         <motion.div
@@ -82,7 +56,7 @@ export default function Hero() {
             href="https://github.com/Aryan054" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-blue-500 transition-all duration-300 text-white shadow-lg hover:shadow-blue-500/30"
+            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-blue-500 transition-all duration-300 text-white shadow-lg"
             aria-label="GitHub"
           >
             <FiGithub className="text-xl" />
@@ -91,14 +65,14 @@ export default function Hero() {
             href="https://www.linkedin.com/in/aryan-rathod-546b5124a" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-blue-600 transition-all duration-300 text-white shadow-lg hover:shadow-blue-600/30"
+            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-blue-600 transition-all duration-300 text-white shadow-lg"
             aria-label="LinkedIn"
           >
             <FiLinkedin className="text-xl" />
           </a>
           <a 
             href="mailto:your-email@example.com" 
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-red-500 transition-all duration-300 text-white shadow-lg hover:shadow-red-500/30"
+            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-red-500 transition-all duration-300 text-white shadow-lg"
             aria-label="Email"
           >
             <HiOutlineMail className="text-xl" />
@@ -106,13 +80,14 @@ export default function Hero() {
           <a 
             href="/Rathod_Aryan_CV.pdf" 
             download
-            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-green-500 transition-all duration-300 text-white shadow-lg hover:shadow-green-500/30"
+            className="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 hover:bg-green-500 transition-all duration-300 text-white shadow-lg"
             aria-label="Download Resume"
           >
             <FiDownload className="text-xl" />
           </a>
         </motion.div>
 
+        {/* Optionally, keep the connect button for professionalism */}
         <motion.div
           className="mt-12 w-full flex justify-center"
           initial={{ opacity: 0 }}
@@ -121,7 +96,7 @@ export default function Hero() {
         >
           <a 
             href="#contact" 
-            className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-full transition-all duration-300 shadow-lg hover:shadow-blue-600/30 inline-flex items-center"
+            className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-full transition-all duration-300 shadow-lg inline-flex items-center"
           >
             Let's Connect
             <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

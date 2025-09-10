@@ -46,12 +46,11 @@ const projects = [
     title: 'Teacher Management',
     description: 'Teacher Management System is a web-based application designed to manage teacher records efficiently. It allows adding, updating, viewing, and deleting teacher details, helping schools and colleges streamline staff information management.',
     tech: [
-     { name: 'Python', icon: <SiPython className="w-5 h-5" /> },
-     { name: 'Django', icon: <SiDjango className="w-5 h-5" /> },
-     { name: 'HTML', icon: <SiHtml5 className="w-5 h-5" /> },
-     { name: 'CSS', icon: <SiCss3 className="w-5 h-5" /> },
-     { name: 'Django ORM', icon: <SiDjango className="w-5 h-5" /> },
-    
+      { name: 'PHP (CodeIgniter)', icon: <span className="w-5 h-5 font-bold text-blue-400">PHP</span> },
+      { name: 'Authentication & Authorization', icon: <span className="w-5 h-5 font-bold text-green-400">Auth</span> },
+      { name: 'REST API Development', icon: <span className="w-5 h-5 font-bold text-yellow-400">API</span> },
+      { name: 'Database Design & Integration', icon: <span className="w-5 h-5 font-bold text-purple-400">DB</span> },
+      { name: 'MySQL', icon: <TbBrandMysql className="w-5 h-5" /> },
     ],
     github: 'https://github.com/Aryan054/fullstack-intern-project',
     demo: 'http://localhost:3000/register',
@@ -111,10 +110,12 @@ export default function Projects() {
               viewport={{ once: true }}
             >
               <div className="relative h-48 overflow-hidden">
+                <img
+                  src={project.image}
+                  alt={project.title + ' image'}
+                  className="w-full h-full object-cover object-center"
+                />
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gray-900/80 z-10"></div>
-                <div className="absolute inset-0 bg-gray-800 flex items-center justify-center text-gray-600">
-                  Project Image
-                </div>
               </div>
 
               <div className="p-6 flex-1 flex flex-col">
