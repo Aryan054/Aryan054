@@ -16,7 +16,7 @@ const projects = [
     ],
     github: 'https://github.com/Aryan054/college-chatbot',
     demo: 'http://127.0.0.1:8000/',
-    image: 'https://thfvnext.bing.com/th/id/OIP.PHzsL5fQvcV4bgfd6_4JOwHaFG?w=244&h=180&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3'
+    image: "/college-chatbot.jpg"
   },
   {
     title: 'BigMart Sales Analysis',
@@ -28,7 +28,7 @@ const projects = [
     ],
     github: 'https://drive.google.com/file/d/1X5zZtTalw2aZkx5l0uCh1x1_KO8Tok67/view?usp=sharing',
     demo: 'https://drive.google.com/file/d/1X5zZtTalw2aZkx5l0uCh1x1_KO8Tok67/view?usp=sharing',
-    image: 'https://i.ytimg.com/vi/q4zm-kMitCg/maxresdefault.jpg'
+    image: "/sales-analysis.webp"
   },
   {
     title: 'Doctor Appointment System',
@@ -40,7 +40,7 @@ const projects = [
     ],
     github: 'https://github.com/Aryan054/Healthcare-Management',
     demo: 'http://127.0.0.1:8000/',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.TTO1U8duT1-lzwcsRNgDGwHaDl?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3'
+    image: "/docter-online-appointment.webp"
   },
   {
     title: 'Teacher Management',
@@ -55,7 +55,7 @@ const projects = [
     ],
     github: 'https://github.com/Aryan054/fullstack-intern-project',
     demo: 'http://localhost:3000/register',
-    image: 'https://varthana.com/school/wp-content/uploads/2023/02/B166.jpg'
+    image: "/teacher-management.jpg"
   },
 ];
 
