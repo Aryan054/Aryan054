@@ -4,7 +4,7 @@
 
 **AI/ML Graduate | Full Stack Developer | Data Analyst**  
 📍 Pune, Maharashtra | ✉️ [aryanrathod791@gmail.com](mailto:aryanrathod791@gmail.com)  
-🌐 [Portfolio Website](https://my-portfolio-pearl-delta-47.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-rathod-546b5124a) | 🐦 [Twitter](https://x.com/AryanRa77396457)
+🌐 [Portfolio Website](https://aryan054.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-rathod-546b5124a) | 🐦 [Twitter](https://x.com/AryanRa77396457)
 
 ---
 
@@ -39,15 +39,15 @@
 
 <div style="max-width: 800px; margin: 0 auto;">
 
-### [Modern Portfolio Website](https://my-portfolio-pearl-delta-47.vercel.app/)
+### [Modern Portfolio Website](https://aryan054.vercel.app/)
 - Developed with Next.js 14 and Tailwind CSS
 - Features responsive design and smooth animations  
-[![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-pearl-delta-47.vercel.app/)
+[![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryan054.vercel.app/)
 
 ### College Admission Chatbot
 - AI-powered multilingual chatbot for student queries
 - Reduced admission team workload by 40%  
-[![View Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/college-chatbot)
+[![View Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Aryan054/college-chatbot)
 
 </div>
 
@@ -71,7 +71,7 @@
   <a href="mailto:aryanrathod791@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://my-portfolio-pearl-delta-47.vercel.app/">
+  <a href="https://aryan054.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
