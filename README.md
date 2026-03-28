@@ -2,83 +2,103 @@
 
 # 👋 Hi, I'm Aryan Shyam Rathod
 
-**AI/ML Graduate | Full Stack Developer | Data Analyst**  
-📍 Pune, Maharashtra | ✉️ [aryanrathod791@gmail.com](mailto:aryanrathod791@gmail.com)  
-🌐 [Portfolio Website](https://aryan054.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/aryan-rathod-546b5124a) | 🐦 [Twitter](https://x.com/AryanRa77396457)
+**AI/ML Engineer | Full Stack Developer | Data Analyst**  
+📍 Pune, Maharashtra  
+✉️ aryanrathod791@gmail.com  
+
+🌐 [Portfolio](https://aryan054.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/aryan-rathod-546b5124a)  
+🐦 [Twitter](https://x.com/AryanRa77396457)
+
+---
+
+## 🚀 About Me
+
+🎓 AI & ML Graduate from Savitribai Phule Pune University  
+💡 Passionate about building intelligent systems and scalable web apps  
+📊 Strong in Data Analysis, Machine Learning & Backend Development  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-</div>
+### 👨‍💻 Programming & Backend
+Python • Django • Django REST Framework • SQL  
 
-### Backend Development
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Django_REST-FF1709?style=flat-square&logo=django&logoColor=white">
-</div>
+### 🌐 Frontend
+HTML • CSS • JavaScript • Next.js • Tailwind CSS  
 
-### Databases
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-</div>
+### 📊 Data & AI/ML
+Pandas • NumPy • Machine Learning • NLP • Data Visualization  
+
+### 🗄️ Databases
+PostgreSQL • MySQL • SQLite  
+
+---
+
+## 💼 Experience
+
+### Python Developer Intern – Monytics
+- Developed fintech platform (LendPartners)
+- Worked on backend APIs and database handling
+- Improved system performance and reliability  
 
 ---
 
 ## 🏆 Featured Projects
 
-<div style="max-width: 800px; margin: 0 auto;">
+### 🌐 Modern Portfolio Website
+- Built with Next.js & Tailwind CSS
+- Fully responsive with smooth animations  
 
-### [Modern Portfolio Website](https://aryan054.vercel.app/)
-- Developed with Next.js 14 and Tailwind CSS
-- Features responsive design and smooth animations  
-[![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryan054.vercel.app/)
+🔗 https://aryan054.vercel.app/
 
-### College Admission Chatbot
-- AI-powered multilingual chatbot for student queries
-- Reduced admission team workload by 40%  
-[![View Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Aryan054/college-chatbot)
+---
 
-</div>
+### 🤖 College Admission Chatbot
+- Multilingual chatbot (English, Hindi, Marathi)
+- Reduced manual workload by **40%**
+- Built using NLP & Machine Learning  
+
+🔗 https://github.com/Aryan054/college-chatbot  
+
+---
+
+### 📊 Sentiment Analysis System
+- Analyzed social media data using NLP  
+- Classified sentiments with ML models  
+
+---
+
+### 🛒 Big Mart Sales Analysis
+- Performed data cleaning & visualization  
+- Generated business insights using Python  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan054&show_icons=true&theme=radical&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan054&layout=compact&theme=radical&hide_border=true">
 
 ---
 
 ## 📫 Let's Connect
 
-<div>
-  <a href="https://www.linkedin.com/in/aryan-rathod-546b5124a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:aryanrathod791@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://aryan054.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/aryan-rathod-546b5124a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:aryanrathod791@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://aryan054.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 ---
 
-> "Transforming complex problems into elegant solutions through code and data."  
->  Let's build something amazing together!
+💡 *"Transforming complex problems into elegant solutions through code and data."*
 
 </div>
