@@ -79,6 +79,6 @@
 ---
 
 > "Transforming complex problems into elegant solutions through code and data."  
-> ✨ Let's build something amazing together!
+>  Let's build something amazing together!
 
 </div>
